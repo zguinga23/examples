@@ -1,4 +1,4 @@
 import base64
-encoded = 'YmFzZTY0IGVuY29kZWQgc3RyaW5n'
+encoded = 'jkMJH7t7HrCtimpDIP6OOA=='
 data = base64.b64decode(encoded)
 print data
